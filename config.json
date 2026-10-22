@@ -1,0 +1,42 @@
+{
+  "weeks_back": 1,
+  "sources": [
+    {
+      "name": "Nature",
+      "type": "rss",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "name": "Nature Immunology",
+      "type": "rss",
+      "url": "https://www.nature.com/ni.rss"
+    },
+    {
+      "name": "Science",
+      "type": "rss",
+      "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    },
+    {
+      "name": "Cell",
+      "type": "pubmed",
+      "issn": "0092-8674"
+    },
+    {
+      "name": "JAAD",
+      "type": "pubmed",
+      "issn": "0190-9622"
+    },
+    {
+      "name": "JID",
+      "type": "pubmed",
+      "issn": "0022-202X"
+    }
+  ],
+  "llm": {
+    "provider": "tongyi",
+    "api_key": "${TONGYI_API_KEY}",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "model": "qwen-plus"
+  },
+  "output": "site/index.html"
+}
