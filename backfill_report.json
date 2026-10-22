@@ -1,0 +1,157 @@
+{
+  "filled": [
+    {
+      "journal": "Nature",
+      "doi": "10.1038/s41586-026-11263-3",
+      "pmid": "42880730",
+      "len": 1844
+    },
+    {
+      "journal": "Nature",
+      "doi": "10.1038/s41586-026-11293-x",
+      "pmid": "42896839",
+      "len": 1806
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.adq6530",
+      "pmid": "42879561",
+      "len": 921
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.ady7647",
+      "pmid": "42879563",
+      "len": 996
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.adz4903",
+      "pmid": "42879536",
+      "len": 1001
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.adz5323",
+      "pmid": "42879555",
+      "len": 934
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aee0658",
+      "pmid": "42879549",
+      "len": 864
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aeh1409",
+      "pmid": "42879544",
+      "len": 952
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aeh4273",
+      "pmid": "42879554",
+      "len": 1009
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aei2693",
+      "pmid": "42879551",
+      "len": 1075
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aei5957",
+      "pmid": "42721274",
+      "len": 1050
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.adt1928",
+      "pmid": "42879562",
+      "len": 1025
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.adz4600",
+      "pmid": "42879538",
+      "len": 1075
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aee6550",
+      "pmid": "42879545",
+      "len": 889
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aeh4015",
+      "pmid": "42879559",
+      "len": 936
+    },
+    {
+      "journal": "Science",
+      "doi": "10.1126/science.aec6740",
+      "pmid": "42721272",
+      "len": 950
+    }
+  ],
+  "still_missing": [
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.023",
+      "title": "Fabricated Protection? A Pilot Study Evaluating Ultraviolet Protection Claims in Sun-Protective Clothing"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.09.131",
+      "title": "Dermatology images: Warts"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.017",
+      "title": "Association Between Food Insecurity and Self-Reported Eczema/Skin Allergy in Adults: A Cross-Sectional Study Using 2012 and 2024 NHIS Data"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.034",
+      "title": "Kaposi sarcoma during Janus kinase inhibition: A systematic review of an emerging safety signal"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.027",
+      "title": "Beyond JAAD - January 2027"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.039",
+      "title": "Sequential 1550-nm fractional focal point technology and pulsed dye laser for port wine birthmarks: A referral center retrospective and survey study"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.09.085",
+      "title": "Week 4 response to abrocitinib predicts week 12 remission and correlates with glycolytic pathway modulation in moderate-to-severe atopic dermatitis"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.09.081",
+      "title": "Second-opinion pathology review prior to dermatologic surgery: Clinical treatment impact"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.050",
+      "title": "Talquetamab and Tebentafusp Demonstrate Target-Specific Cutaneous Safety Signal Profiles in FAERS"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.046",
+      "title": "Postoperative Complications Following Malignant Skin Excision in Patients Using Glucagon-Like Peptide-1 Receptor Agonists: A 5-Year Retrospective Cohort Analysis Using TriNetX"
+    },
+    {
+      "journal": "JAAD",
+      "doi": "10.1016/j.jaad.2026.10.045",
+      "title": "Stimulants May Be a Culprit in Patients with both Erythromelalgia and Raynaud's phenomenon: A Retrospective Cohort Study"
+    }
+  ]
+}
