@@ -1,0 +1,41 @@
+[
+  {
+    "journal": "Nature",
+    "title": "Compartment-specific PPARδ activity controls the outcome of cancer–immune cell competition and immunotherapy efficacy",
+    "abstract": "Most patients with solid tumors fail to sustain anti-tumor immunity. Here we show that PPARδ acts in a compartment-specific manner: in immune cells it promotes fitness and overcomes immunotherapy resistance, whereas in tumor cells it dampens immunity.",
+    "doi": "10.1038/s41590-026-02685-2",
+    "url": "https://doi.org/10.1038/s41590-026-02685-2",
+    "date": "2026-10-14",
+    "type": "Article",
+    "title_zh": "区室特异性的 PPARδ 活性决定癌症—免疫细胞竞争结局及免疫治疗疗效",
+    "abstract_zh": "多数实体瘤患者无法维持抗肿瘤免疫。本研究表明 PPARδ 的作用具有区室特异性：在免疫细胞中它增强细胞适应性并克服免疫治疗耐药，而在肿瘤细胞中则抑制免疫。",
+    "summary_zh": "该研究发现 PPARδ 的促免疫或抑免疫效应取决于其所在细胞类型，提示可靶向免疫细胞内的 PPARδ 来改善免疫治疗耐药。",
+    "highlight": "首次揭示 PPARδ 的免疫效应具有细胞区室依赖性的双向作用，为逆转免疫治疗耐药提供了新靶点。"
+  },
+  {
+    "journal": "JAAD",
+    "title": "Litifilimab in cutaneous lupus erythematosus: a phase 2 randomized trial (AMETHYST)",
+    "abstract": "In this phase 2 trial, subcutaneous litifilimab significantly improved skin disease activity in patients with cutaneous lupus erythematosus versus placebo, with a manageable safety profile.",
+    "doi": "10.1016/j.jaad.2026.03757-6",
+    "url": "https://doi.org/10.1016/j.jaad.2026.03757-6",
+    "date": "2026-10-17",
+    "type": "Article",
+    "title_zh": "利替非单抗治疗皮肤型红斑狼疮：一项 2 期随机试验（AMETHYST）",
+    "abstract_zh": "在这项 2 期试验中，皮下注射利替非单抗相较安慰剂显著改善了皮肤型红斑狼疮患者的皮肤疾病活动度，安全性可控。",
+    "summary_zh": "AMETHYST 试验显示首创抗 BDCA2 疗法 litifilimab 可显著改善 CLE 皮肤症状，有望成为数十年来的首个靶向疗法。",
+    "highlight": "全球首项证明 litifilimab 改善皮肤型红斑狼疮的 2 期随机证据，或打破该领域长期无靶向药的局面。"
+  },
+  {
+    "journal": "JID",
+    "title": "IL-31 signaling in the hair follicle bulge modulates murine hair regeneration",
+    "abstract": "IL-31 is a type 2 cytokine best known for actions on sensory neurons. Here we identify the hair follicle bulge as a conserved epithelial target of IL-31 signaling and support a role for this pathway in modulating hair regeneration in mice.",
+    "doi": "10.1016/j.jid.2026.10.005",
+    "url": "https://doi.org/10.1016/j.jid.2026.10.005",
+    "date": "2026-10-13",
+    "type": "Article",
+    "title_zh": "IL-31 信号在毛囊隆起部的调控作用影响小鼠毛发再生",
+    "abstract_zh": "IL-31 是一种 2 型细胞因子，以往以作用于感觉神经元而著称。本研究鉴定出毛囊隆起部是 IL-31 信号的保守上皮靶点，并支持该通路参与调控小鼠毛发再生。",
+    "summary_zh": "研究将 IL-31 的作用拓展到毛囊干细胞生态位，提示其通路可作为脱发/毛发疾病的新干预方向。",
+    "highlight": "首次将 IL-31 的靶组织从神经扩展到毛囊隆起部，为毛发再生调控提供了新机制。"
+  }
+]
